@@ -1,0 +1,1 @@
+import{_ as o}from"./MDCSlot.ae8e4aa9.js";import{d as t,O as n}from"./entry.1903f6ab.js";import"./node.c1039640.js";const s=t({props:{use:{type:Function,default:void 0},unwrap:{type:[Boolean,String],default:!1}},render(e){return n(o,e)}});export{s as default};
