@@ -1,0 +1,1 @@
+import o from"./ProseP.58f3af31.js";import{d as r,b as t,Y as n}from"./entry.0d241ee8.js";const m=r({__name:"SourceLink",props:{source:{type:String,required:!0}},setup(_){return(c,p)=>{const e=o;return t(),n(e)}}});export{m as default};
